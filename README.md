@@ -8,7 +8,7 @@ In this weeks challenge I was given existing HTML and CSS files.  I worked to re
 
 ## **Screenshot**
 
-![Screenshot of webpage] (./assets/images/challenge-1-screenshot.png)
+![Screenshot of webpage] (/assets/images/challenge-1-screenshot.png)
 
 <https://robbinpass.github.io/challenge-1-refactoring/>
 
